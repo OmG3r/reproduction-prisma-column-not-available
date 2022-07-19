@@ -18,5 +18,5 @@ model Person {
 
   name String
   lastname String
-  age Int
+  //age Int
 }
